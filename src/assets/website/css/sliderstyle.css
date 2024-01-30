@@ -1,0 +1,9 @@
+.carouselItem{
+    width: 150px;
+    min-width:200px;
+    margin:0px 0px 0px 0px,
+}
+
+.timelineSlider .slick-slide img {
+    height: auto;
+  }

@@ -1,0 +1,127 @@
+ .login-page-body {
+  background-color: #19184A !important;
+ }
+ .kanban-list {
+  /*background-color:#f1d7d773;*/
+  margin-right: 30px !important;
+  min-width: 340px;
+ }
+ .kanban-list .kanban-header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  /*background-color: #ef5350;*/
+ }
+ .assign-left{
+  text-align: right; padding-right: 35px;width: 240px;
+ }
+ .assign-right
+ {
+      text-align: right!important;
+
+ }
+ .table-title
+ {
+  text-align: right;
+ }
+ .table-text
+ {
+    text-align: right;
+
+ }
+
+ .si
+ {
+  width: 70px;
+ }
+ .pending_list {
+  background-color: #f1d7d773 !important;
+ }
+ .pending_header {
+  background-color: #ef5350 !important;
+ }
+ .pending_progress_bar {
+  background-color: #ef5350 !important;
+ }
+ .inprogress_list {
+  background-color: #fdfcf3 !important;
+ }
+ .inprogress_header {
+  background-color: #ffb300 !important;
+ }
+ .inprogress_progress_bar {
+  background-color: #ffb300 !important;
+ }
+ .completed_list {
+  background-color: #edf7ee !important;
+ }
+ .completed_header {
+  background-color: #4caf50 !important;
+ }
+ .completed_progress_bar {
+  background-color: #4caf50 !important;
+ }
+ .review_list {
+  background-color: #fff5ec !important;
+ }
+ .review_header {
+  background-color: #ff9b44 !important;
+ }
+ .review_progress_bar {
+  background-color: #ff9b44 !important;
+ }
+ .onhold_list {
+  background-color: #e7f3fe !important;
+ }
+ .onhold_header {
+  background-color: #42a5f5 !important;
+ }
+ .onhold_progress_bar {
+  background-color: #42a5f5 !important;
+ }
+ .kanban-header .status-title {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+ }
+ .smooth-dnd-container .horizontal {
+  padding: 1.25rem;
+  background-color: #fff;
+ }
+ .card {
+  background-color: #fff;
+  /*margin-top: 24px;*/
+  border-radius: 2px;
+  margin: 20px;
+  padding: 10px 15px 10px;
+ }
+ .progress-xs {
+  height: 4px;
+  /*height: 4px;*/
+  /*margin-bottom: 5px;*/
+ }
+ .kanban-footer {
+  /*margin-top: 5px;*/
+  margin-top: 0px;
+ }
+ .kanban-list > .kanban-wrap > .card > .kanban-box > .task-board-body > .kanban-info {
+  display: flex !important;
+  align-items: center;
+  font-size: 12px !important;
+ }
+ .task-board-body > .kanban-info > .progress {
+  margin-bottom: 0;
+  margin-right: 10px !important;
+  width: 100% !important;
+ }
+ .kanban-info-flex{
+  display: flex !important;
+  align-items: center !important;
+  font-size: 12px !important;
+ }
+ .kanban-footer-assign{
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: end !important;
+ }

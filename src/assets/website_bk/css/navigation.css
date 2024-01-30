@@ -1,0 +1,121 @@
+
+#sidebarnavigation
+.navigation {
+    height: 10px;
+    /* background: #262626; */
+  }
+  
+
+  
+  
+  #sidebarnavigation .nav-container {
+    /* max-width:1000px; */
+    margin: 0 auto;
+    text-decoration: none;
+  }
+  
+
+  #sidebarnavigation nav  {
+    float: right;
+  }
+  #sidebarnavigation nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+   }
+   #sidebarnavigation nav ul  li {
+        /* float: left; */
+        position: relative;
+   }
+      
+  #sidebarnavigation nav  ul li {
+          min-width: 150px !important;
+        }
+        #sidebarnavigation nav ul li   a {
+            
+            line-height: 20px;
+            border-bottom: none!important;
+          }
+          #sidebarnavigation nav ul li ul{
+            display:block;
+          }
+          #sidebarnavigation  .nav-dropdown {
+            position: absolute;
+            display: none;
+            z-index: 1;
+            box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+          }
+ .searchIn{
+     background-color: #E2E0E1;
+ }
+ .catnavlist {
+  position: relative !important;
+  display: block !important;
+  float: left !important;
+}
+
+/* .list {
+  display: none !important;
+} */
+
+img.card-img-top {
+  width: 2rem;
+  height: 2rem;
+  margin-top: 15%;
+  margin-left: 22%;
+  margin-bottom: 10%;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 2px;
+  width: fit-content;
+  padding: 10px 29px 10px;
+  margin: 0px !important;
+  margin-left: -20px;
+}
+
+.card-title {
+  color: #1f1f1f;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  text-align: center;
+}
+ 
+  /* nisha css */
+
+.buttond{
+  border-radius: 0px;
+  /* background-color: #2d2c71; */
+    padding: 15px;
+    width: 100%;
+
+}
+.buttond:hover{
+  font-size: 17px;
+}
+
+.dropdown-menu.liveauction.show{
+  color: #fff!important;
+  background-color: #545b62;
+}
+.liveauction a{
+  color: white;
+  font-size: 15px;
+  margin-left: 10px;
+
+}
+.liveauction a:hover{
+  font-size: 16px;
+
+}
+.liveauction li{
+  padding-bottom: 5px;
+}
+#multiselect label{
+  margin-left: 27px;
+  margin-top: -25px;
+ } 
+ 
+  

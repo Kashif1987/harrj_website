@@ -1,0 +1,12 @@
+{
+    "Dashboard": [{
+     "Welcome Admin" :"مرحبا بكم الادارية "
+    }
+    ],
+    "sidemenu" :[
+        {
+        "Dashboard" : "لوحة القيادة",
+        "Country" :"دولة"
+        }
+    ]
+}
